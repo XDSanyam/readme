@@ -47,7 +47,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=XDFrost&label=Profile%20views&color=0e75b6&style=flat" alt="Pratham Gupta" /> </p>
 
 
-[instagram]: https://www.instagram.com/sanyamguptaa_/
+[instagram]: https://www.instagram.com/sanyamguptaaa/
 [Linkedin]: https://www.linkedin.com/in/sanyam-gupta-53136a25a/
 [discord]: https://discord.com/
 [Visual Studio Code]: https://code.visualstudio.com/download
