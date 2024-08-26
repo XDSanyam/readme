@@ -1,5 +1,5 @@
 # Hi there, I'm Sanyam Gupta 👋
-## I'm a Blockchain Enthusiast and also interested in Game Development!
+## I'm a AI Enthusiast!
 ### If you like my work, you can always support me through: 
 
 <br />
