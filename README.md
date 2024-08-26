@@ -33,8 +33,8 @@
 <br>
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=XDFrost&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=XDFrost&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=XDSanyam&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=XDSanyam&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=XDFrost&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <br/>
